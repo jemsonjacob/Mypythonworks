@@ -1,0 +1,7 @@
+s2=set()
+s2.add("hello")
+s2.add(6)
+s2.add(6.0)
+s2.add(True)
+s2.add("0")
+print(s2)
